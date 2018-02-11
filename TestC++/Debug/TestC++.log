@@ -1,0 +1,4 @@
+﻿  TestC++.cpp
+c:\users\rudcool\source\repos\testc++\testc++\testc++.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\rudcool\source\repos\testc++\testc++\testc++.cpp(130): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TestC++.vcxproj -> C:\Users\rudcool\source\repos\TestC++\Debug\TestC++.exe
